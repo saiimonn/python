@@ -1,0 +1,6 @@
+product_id,name,category,price,in_stock
+101,Notebook,Stationery,2.50,True
+102,Pen,Stationery,1.20,True
+103,Backpack,Bags,25.00,False
+104,USB Drive,Electronics,12.00,True
+105,Headphones,Electronics,45.00,False
